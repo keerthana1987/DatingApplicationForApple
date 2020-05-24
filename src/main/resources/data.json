@@ -1,0 +1,52 @@
+[
+	{
+		"userID": "userA",
+		"name": "UserA",
+		"gender": "FEMALE",
+		"age": 25,
+		"interests": [
+			"Cricket"
+		]
+	},
+	{
+		"userID": "userB",
+		"name": "UserB",
+		"gender": "MALE",
+		"age": 27,
+		"interests": [
+			"Cricket",
+			"Football","Movies"
+		]
+	}
+	,
+	{
+		"userID": "userC",
+		"name": "UserC",
+		"gender": "MALE",
+		"age": 26,
+		"interests": [
+			"Cricket",
+			"Football","Movies","Tennis"
+		]
+	},
+	{
+		"userID": "userD",
+		"name": "UserD",
+		"gender": "FEMALE",
+		"age": 24,
+		"interests": [
+			"Tennis",
+			"Football","Badminton"
+		]
+	},
+	{
+		"userID": "userE",
+		"name": "UserE",
+		"gender": "FEMALE",
+		"age": 32,
+		"interests": [
+			"Cricket",
+			"Football","Movies","Badminton"
+		]
+	}
+]
